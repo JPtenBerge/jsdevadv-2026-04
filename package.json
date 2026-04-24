@@ -1,0 +1,21 @@
+{
+  "name": "jsdevadv-2026-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "advanced-functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPtenBerge/jsdevadv-2026-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPtenBerge/jsdevadv-2026-04/issues"
+  },
+  "homepage": "https://github.com/JPtenBerge/jsdevadv-2026-04#readme",
+  "type": "module"
+}
