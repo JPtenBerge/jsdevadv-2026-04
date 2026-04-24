@@ -44,3 +44,4 @@ let tijs = {
 
 console.log(`hoi mijn naam is ${tijs}`);
 console.log(`hoi mijn naam is ${+tijs}`);
+
